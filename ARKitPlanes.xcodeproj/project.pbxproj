@@ -13,6 +13,8 @@
 		FA9C5E40297989FE007E63A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA9C5E3E297989FE007E63A0 /* Main.storyboard */; };
 		FA9C5E4229798A02007E63A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA9C5E4129798A02007E63A0 /* Assets.xcassets */; };
 		FA9C5E4529798A02007E63A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA9C5E4329798A02007E63A0 /* LaunchScreen.storyboard */; };
+		FA9C5E4C297990D4007E63A0 /* Plane.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA9C5E4B297990D4007E63A0 /* Plane.swift */; };
+		FA9C5E4E29799C6E007E63A0 /* pinkWeb.png in Resources */ = {isa = PBXBuildFile; fileRef = FA9C5E4D29799C6E007E63A0 /* pinkWeb.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		FA9C5E3F297989FE007E63A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FA9C5E4129798A02007E63A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA9C5E4429798A02007E63A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FA9C5E4B297990D4007E63A0 /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
+		FA9C5E4D29799C6E007E63A0 /* pinkWeb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinkWeb.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				FA9C5E3E297989FE007E63A0 /* Main.storyboard */,
 				FA9C5E4129798A02007E63A0 /* Assets.xcassets */,
 				FA9C5E4329798A02007E63A0 /* LaunchScreen.storyboard */,
+				FA9C5E4B297990D4007E63A0 /* Plane.swift */,
+				FA9C5E4D29799C6E007E63A0 /* pinkWeb.png */,
 			);
 			path = ARKitPlanes;
 			sourceTree = "<group>";
@@ -126,6 +132,7 @@
 				FA9C5E3B297989FE007E63A0 /* art.scnassets in Resources */,
 				FA9C5E4529798A02007E63A0 /* LaunchScreen.storyboard in Resources */,
 				FA9C5E4229798A02007E63A0 /* Assets.xcassets in Resources */,
+				FA9C5E4E29799C6E007E63A0 /* pinkWeb.png in Resources */,
 				FA9C5E40297989FE007E63A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA9C5E3D297989FE007E63A0 /* ViewController.swift in Sources */,
+				FA9C5E4C297990D4007E63A0 /* Plane.swift in Sources */,
 				FA9C5E39297989FE007E63A0 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

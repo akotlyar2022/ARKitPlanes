@@ -17,6 +17,7 @@
 		FA9C5E4E29799C6E007E63A0 /* pinkWeb.png in Resources */ = {isa = PBXBuildFile; fileRef = FA9C5E4D29799C6E007E63A0 /* pinkWeb.png */; };
 		FAA002EF297D5F7C00B2DAD9 /* Box.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA002EE297D5F7C00B2DAD9 /* Box.swift */; };
 		FAA002F1297D794200B2DAD9 /* BitMaskCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA002F0297D794200B2DAD9 /* BitMaskCategory.swift */; };
+		FAA002F3297DB19800B2DAD9 /* VirtualObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAA002F2297DB19800B2DAD9 /* VirtualObject.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FA9C5E4D29799C6E007E63A0 /* pinkWeb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinkWeb.png; sourceTree = "<group>"; };
 		FAA002EE297D5F7C00B2DAD9 /* Box.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Box.swift; sourceTree = "<group>"; };
 		FAA002F0297D794200B2DAD9 /* BitMaskCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitMaskCategory.swift; sourceTree = "<group>"; };
+		FAA002F2297DB19800B2DAD9 /* VirtualObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VirtualObject.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FA9C5E38297989FE007E63A0 /* AppDelegate.swift */,
 				FA9C5E3A297989FE007E63A0 /* art.scnassets */,
 				FA9C5E3C297989FE007E63A0 /* ViewController.swift */,
+				FAA002F2297DB19800B2DAD9 /* VirtualObject.swift */,
 				FAA002F0297D794200B2DAD9 /* BitMaskCategory.swift */,
 				FAA002EE297D5F7C00B2DAD9 /* Box.swift */,
 				FA9C5E3E297989FE007E63A0 /* Main.storyboard */,
@@ -152,6 +155,7 @@
 			files = (
 				FA9C5E3D297989FE007E63A0 /* ViewController.swift in Sources */,
 				FAA002EF297D5F7C00B2DAD9 /* Box.swift in Sources */,
+				FAA002F3297DB19800B2DAD9 /* VirtualObject.swift in Sources */,
 				FAA002F1297D794200B2DAD9 /* BitMaskCategory.swift in Sources */,
 				FA9C5E4C297990D4007E63A0 /* Plane.swift in Sources */,
 				FA9C5E39297989FE007E63A0 /* AppDelegate.swift in Sources */,
